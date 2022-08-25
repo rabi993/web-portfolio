@@ -61,6 +61,7 @@ section{
     box-shadow: 10px 10px 40px grey;
     border-radius: 5px;
     height: 500px;
+    background-color: rgb(173, 137, 137);
 
 }
 #full-stack{
@@ -73,5 +74,9 @@ section{
     border-left: 7px solid;
     border-image: linear-gradient(180deg, rgb(122, 255, 200),rgb(182, 76, 58)) ;
     border-image-slice: 1;
+}
+footer{
+    text-align: center;
+    font-size: 12px;
 }
     
